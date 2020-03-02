@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
-  serverUrl: 'http://18.217.240.130:8080'
+  serverUrl: 'http://34.93.239.26:8080'
 };
 
 
